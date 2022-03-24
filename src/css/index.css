@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+}
+
+.poster {
+    background: url(../assets/yoga.jpg);
+    height: 200px;
+    width: 100%;
+    margin: 0 auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
